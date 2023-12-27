@@ -1,2 +1,0 @@
-# sophieeeeeehu.github.io
-### hello

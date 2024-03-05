@@ -91,7 +91,7 @@
 
 .button:hover {
     background-color: white;
-    color: black;
+    color: purple;
     border: 3px solid black;
     transition: all 0.3s ease;
 }
